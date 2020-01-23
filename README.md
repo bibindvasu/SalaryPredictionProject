@@ -1,0 +1,2 @@
+# SalaryPredictionProject
+Salary prediction project
